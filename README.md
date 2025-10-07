@@ -234,6 +234,3 @@ By combining GPS data, congestion detection, and predictive models, the system e
 ---
 
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
